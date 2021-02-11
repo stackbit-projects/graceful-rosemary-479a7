@@ -1,6 +1,6 @@
 ---
 title: Test
-weight: 0
+weight: 1
 excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
